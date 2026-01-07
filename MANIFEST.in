@@ -1,0 +1,1 @@
+include src/alibaba_cloud_secretsmanager_client_v2/ca/*.pem
