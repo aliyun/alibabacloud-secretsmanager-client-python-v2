@@ -35,7 +35,7 @@ Python 3.7+
 
 .. code:: bash
 
-   pip install aliyun-secret-manager-client-v2
+   pip install alibabacloud_secretsmanager_client_v2
 
 也可以直接安装解压后的安装包：
 

@@ -52,7 +52,7 @@ def get_ca_files():
 
 
 setup(
-    name="alibabacloud-secretsmanager-client-v2",
+    name="alibabacloud_secretsmanager_client_v2",
     packages=find_packages("src", include=["alibabacloud_secretsmanager_client_v2",
                                            "alibabacloud_secretsmanager_client_v2.*"]),
     package_dir={"": "src"},

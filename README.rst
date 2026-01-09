@@ -40,7 +40,7 @@ example):
 
 .. code:: bash
 
-   $ pip install aliyun-secret-manager-client-v2
+   $ pip install alibabacloud_secretsmanager_client_v2
 
 You can also install the unzipped installer package directly:
 
